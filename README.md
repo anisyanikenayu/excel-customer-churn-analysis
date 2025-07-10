@@ -24,7 +24,7 @@ Measures:
 - Churn Rate
 
 ## Data Cleaning & EDA Process
-Throughout the cleaning and analysis process, I maintained a detailed log of all transformation steps and observations. You can view the full documentation here: [Cleaning & EDA Documentation] (insert link if available)
+Throughout the cleaning and analysis process, I maintained a detailed log of all transformation steps and observations. You can view the full documentation here: [Cleaning & EDA Documentation](https://github.com/anisyanikenayu/excel-customer-churn-analysis/blob/68a2a29cd6b1edc04c906ef32aca21890f811947/cleaning-eda-docs-tracking.xlsx)
 
 ## Key Insights from Exploratory Data Analysis
 - **Churn Rate:** Out of 6,687 total customers, 1,792 have churned—representing a churn rate of approximately 26.86%, which is relatively high.
